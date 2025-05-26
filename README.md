@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+# Hi, I'm Andrea 👋
+
+I'm a Software Development student at BYU-Idaho.
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Python, Git, GitHub
+- Learning: React, SQL
+
+## 📂 Projects
+I'm currently building and learning through academic and personal projects. More coming soon!
 <!--
 **andreanat/andreanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
